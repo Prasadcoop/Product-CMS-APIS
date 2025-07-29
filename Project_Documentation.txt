@@ -34,3 +34,6 @@ php artisan passport:install
 
 Start the Laravel Development Server
 php artisan serve
+
+Apis POSTMAN Collection docs 
+https://documenter.getpostman.com/view/26068205/2sB3B8qYKM
