@@ -63,5 +63,7 @@ User ID is hardcoded as 1 for cart-related APIs.
 The CMS provides a neat, user-friendly UI for managing products, images, and orders.
 
 Razorpay integration for checkout process.
+<img width="1355" height="567" alt="image" src="https://github.com/user-attachments/assets/beea02e3-7bd3-4baf-a635-d9a9426d0e74" />
+
 
 Good Luck & Happy Coding!
