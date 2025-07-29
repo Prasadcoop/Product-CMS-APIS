@@ -1,0 +1,36 @@
+get clone this project 
+
+git clone 
+cd Product
+
+Install PHP Dependencies
+composer install
+
+Set Up .env File
+cp .env.example .env
+
+APP_NAME=Laravel
+APP_ENV=local
+APP_KEY=       # will be generated in the next step
+APP_DEBUG=true
+APP_URL=http://localhost:8000
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_db_name
+DB_USERNAME=your_db_user
+DB_PASSWORD=your_db_pass
+
+Run Migrations
+
+php artisan migrate
+
+
+Passport Installation
+php artisan migrate
+php artisan passport:install
+
+
+Start the Laravel Development Server
+php artisan serve
